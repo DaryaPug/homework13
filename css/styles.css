@@ -188,6 +188,7 @@ body {
   color: #3D3D3D;
   font-weight: bold;
   transition-duration: 1s;
+  text-decoration: none;
 }
 
 .logout:hover {
@@ -195,6 +196,7 @@ body {
   color: #3D3D3D;
   font-weight: bold;
   transition-duration: 1s;
+  text-decoration: none;
 }
 
 .size {
@@ -652,16 +654,14 @@ body {
 .info-button {
   width: 140px;
   height: 40px;
-  display: inline-block;
   margin-top: 25px;
   background-color: #46A358;
   border-radius: 6px;
-  color: #FFFFFF;
-  font-size: 16px;
   border: 1px solid white;
   align-items: center;
   justify-content: center;
   display: flex;
+  text-decoration: none;
 }
 
 .up {
@@ -790,6 +790,7 @@ body {
   color: #3D3D3D;
   font-weight: bold;
   transition-duration: 1s;
+  text-decoration: none;
 }
 
 .footer-about {

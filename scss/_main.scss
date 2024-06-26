@@ -12,7 +12,7 @@ body{
     margin-right: auto;
 }
 .loading {
-    position: relative;       
+    position: relative;   
   }
   .loading-bar {
     display: inline-block;
@@ -20,6 +20,7 @@ body{
     height: 15px;
     border-radius: 10px;
     animation: loading 1s ease-in-out infinite;
+ 
     }
   .loading-bar:nth-child(1) {
     background-color: #3498db;
